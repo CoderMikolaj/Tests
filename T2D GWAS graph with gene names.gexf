@@ -1,0 +1,1329 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2024-09-17">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="kind" title="kind" type="string"/>
+      <attribute id="order" title="order" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="FAM241B" label="FAM241B">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="316.2307"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="MTNR1B" label="MTNR1B">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="264.51462"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="HSD17B12" label="HSD17B12">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-953.37915"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="MANSC4" label="MANSC4">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="699.7154"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="SSR1" label="SSR1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="816.7588"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="HERC1" label="HERC1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="482.12894"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="CCND2" label="CCND2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="386.25726"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="TCF7L2_1" label="TCF7L2_1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="576.23193"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PPARG" label="PPARG">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-303.35583"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="CDKN2B-AS1" label="CDKN2B-AS1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="606.7083"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="MC4R_1" label="MC4R_1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-690.8614"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PABPC1P2" label="PABPC1P2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-171.86377"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="DGKB" label="DGKB">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="45.454662"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="RSPO3" label="RSPO3">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="235.8854"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="SLC30A10" label="SLC30A10">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="186.66391"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="MAPKBP1" label="MAPKBP1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="221.45656"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PPP4R3A" label="PPP4R3A">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="519.6532"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PCDH17" label="PCDH17">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="417.82825"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="ADCY5" label="ADCY5">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="9.832673"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="HNF1A-AS1" label="HNF1A-AS1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="73.31726"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="RASGRP1" label="RASGRP1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-157.76535"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="JAZF1" label="JAZF1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-25.793888"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="MIR548A2" label="MIR548A2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="340.4343"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="RREB1" label="RREB1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-406.79776"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="LINC01512" label="LINC01512">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-87.87781"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="MACF1" label="MACF1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-136.6249"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="SEC16B" label="SEC16B">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-486.61057"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="B3GALNT2" label="B3GALNT2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-601.59454"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="MIR4432" label="MIR4432">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="671.8513"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="SLC2A2" label="SLC2A2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-197.86171"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="IGF2BP2" label="IGF2BP2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-537.0074"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PCGF3" label="PCGF3">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-633.59625"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="SMARCAD1" label="SMARCAD1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="592.0643"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="ARL15" label="ARL15">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="145.90974"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="SLCO4C1" label="SLCO4C1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="453.96793"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="GIN1" label="GIN1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="859.7498"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="CDKAL1" label="CDKAL1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="428.05124"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="HLA-DRB5" label="HLA-DRB5">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-649.74084"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="SLC22A3" label="SLC22A3">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="626.4698"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="QKI" label="QKI">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="441.87463"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="KLF14" label="KLF14">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-369.663"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="ZNF251" label="ZNF251">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-855.1166"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="GPSM1" label="GPSM1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="731.5064"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="CDC123" label="CDC123">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-343.2377"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="BTAF1" label="BTAF1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="503.70135"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="VTI1A" label="VTI1A">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-625.25354"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="TCF7L2_5" label="TCF7L2_5">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-429.65512"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="TCF7L2_2" label="TCF7L2_2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="123.00991"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="TCF7L2_3" label="TCF7L2_3">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="527.7725"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="TCF7L2_4" label="TCF7L2_4">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-438.48248"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PLEKHA1" label="PLEKHA1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="471.24188"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PDE3B" label="PDE3B">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="550.74774"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="NCR3LG1" label="NCR3LG1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="763.4526"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="CCDC73" label="CCDC73">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="598.2302"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PDHX" label="PDHX">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-257.93057"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="LTBP3" label="LTBP3">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="584.6863"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="ITPR2" label="ITPR2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-44.48044"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="KSR2" label="KSR2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-937.5891"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="HNF1A" label="HNF1A">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-549.7631"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="SPRY2" label="SPRY2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-54.53467"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="C2CD4A" label="C2CD4A">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="400.46808"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PTPN9" label="PTPN9">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="365.01556"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PRC1" label="PRC1">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-453.9038"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="LOC613038" label="LOC613038">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-588.63947"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="GLP2R" label="GLP2R">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="512.09735"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="NAGLU" label="NAGLU">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-240.54634"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="MC4R_2" label="MC4R_2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-614.58527"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="GIPR" label="GIPR">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="294.97754"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="ZC3H4" label="ZC3H4">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="-503.04843"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="PANX2" label="PANX2">
+        <attvalues>
+          <attvalue for="kind" value="SNP"/>
+          <attvalue for="order" value="3"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="1500.0" y="307.3898"/>
+        <viz:color r="236" g="233" b="0"/>
+      </node>
+      <node id="LipoproteinA" label="LipoproteinA">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="634.53467"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="ALP" label="ALP">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-187.21213"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Glucose" label="Glucose">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="433.7037"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="WBC" label="WBC">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-483.87152"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="BMI" label="BMI">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-650.9689"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="C_reactive_protein" label="C_reactive_protein">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-357.524"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="AST" label="AST">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-450.13736"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="TG" label="TG">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-147.14122"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Albumin" label="Albumin">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="88.938225"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="FGadjBMI" label="FGadjBMI">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="341.69437"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Proins" label="Proins">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="242.70064"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="ALT" label="ALT">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-597.22064"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="VitaminD" label="VitaminD">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="669.4249"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Cholesterol" label="Cholesterol">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="504.45694"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="WHR_female" label="WHR_female">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="115.590164"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Haemoglobin_concentration" label="Haemoglobin_concentration">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-402.1987"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Lymphocyte_count" label="Lymphocyte_count">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-572.80066"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Urate" label="Urate">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-307.6972"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Monocyte_count" label="Monocyte_count">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-549.26434"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Urea" label="Urea">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="180.52664"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="SHBG" label="SHBG">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-232.67981"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="FIadjBMI" label="FIadjBMI">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-93.04128"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="HbA1c.adjBMI" label="HbA1c.adjBMI">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="23.410446"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="WHR_male" label="WHR_male">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-507.80444"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="HOMAIR" label="HOMAIR">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="150.09521"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="HOMAB" label="HOMAB">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="-42.164783"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+      <node id="Adiponectin" label="Adiponectin">
+        <attvalues>
+          <attvalue for="kind" value="Trait"/>
+          <attvalue for="order" value="1"/>
+        </attvalues>
+        <viz:size value="26.0"/>
+        <viz:position x="500.0" y="559.16797"/>
+        <viz:color r="3" g="251" b="255"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="292" source="FAM241B" target="HbA1c.adjBMI" label="5.71" kind="Positive" weight="5.70576318828394">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="293" source="MTNR1B" target="FGadjBMI" label="30.1" kind="Positive" weight="30.0590402002744">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="294" source="MTNR1B" target="Proins" label="7.86" kind="Positive" weight="7.86135519164054">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="295" source="MTNR1B" target="HbA1c.adjBMI" label="16.6" kind="Positive" weight="16.6160563169576">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="296" source="MTNR1B" target="HOMAB" label="-20.4" kind="Negative" weight="20.4219541133851">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="297" source="HSD17B12" target="BMI" label="8.34" kind="Positive" weight="8.34458425260134">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="298" source="MANSC4" target="Glucose" label="5.8" kind="Positive" weight="5.80430435832637">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="299" source="MANSC4" target="FGadjBMI" label="5.53" kind="Positive" weight="5.52649436885388">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="300" source="SSR1" target="Glucose" label="5.76" kind="Positive" weight="5.76374228580629">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="301" source="SSR1" target="Adiponectin" label="5.79" kind="Positive" weight="5.79258359397228">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="302" source="HERC1" target="FGadjBMI" label="7.47" kind="Positive" weight="7.46659862073812">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="303" source="HERC1" target="HOMAIR" label="7.57" kind="Positive" weight="7.56701464638924">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="304" source="PPARG" target="AST" label="6.63" kind="Positive" weight="6.63013503190396">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="305" source="PPARG" target="TG" label="7.19" kind="Positive" weight="7.19307684068248">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="306" source="PPARG" target="Albumin" label="11.1" kind="Positive" weight="11.0967692172963">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="307" source="PPARG" target="FGadjBMI" label="6.25" kind="Positive" weight="6.24766225243067">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="308" source="PPARG" target="ALT" label="9.17" kind="Positive" weight="9.17044763445247">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="309" source="PPARG" target="Haemoglobin_concentration" label="7.18" kind="Positive" weight="7.18131890473121">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="310" source="PPARG" target="Urate" label="6.27" kind="Positive" weight="6.26598564668965">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="311" source="PPARG" target="SHBG" label="-9.75" kind="Negative" weight="9.75106688980389">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="312" source="PPARG" target="FIadjBMI" label="13" kind="Positive" weight="13.0292336938299">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="313" source="PPARG" target="WHR_male" label="-7" kind="Negative" weight="6.99946203631971">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="314" source="PPARG" target="HOMAIR" label="7.58" kind="Positive" weight="7.57788679386969">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="315" source="CDKN2B-AS1" target="Cholesterol" label="-5.6" kind="Negative" weight="5.60461515983937">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="316" source="CDKN2B-AS1" target="HOMAIR" label="6.18" kind="Positive" weight="6.17972862788455">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="317" source="MC4R_1" target="BMI" label="15.7" kind="Positive" weight="15.69916161597">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="318" source="MC4R_1" target="C_reactive_protein" label="5.66" kind="Positive" weight="5.66351451156766">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="319" source="MC4R_1" target="WHR_female" label="8.06" kind="Positive" weight="8.05897718608321">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="320" source="MC4R_1" target="Urate" label="7" kind="Positive" weight="7.00212793326992">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="321" source="MC4R_1" target="SHBG" label="-6.71" kind="Negative" weight="6.70822927925315">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="322" source="MC4R_1" target="WHR_male" label="6.12" kind="Positive" weight="6.12348644847518">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="323" source="MC4R_1" target="HOMAIR" label="6.05" kind="Positive" weight="6.0509283785843">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="324" source="MC4R_1" target="HOMAB" label="5.61" kind="Positive" weight="5.61197465821405">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="325" source="PABPC1P2" target="HbA1c.adjBMI" label="-9.48" kind="Negative" weight="9.48042760714961">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="326" source="DGKB" target="Glucose" label="14.5" kind="Positive" weight="14.5497520805795">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="327" source="DGKB" target="FGadjBMI" label="13.6" kind="Positive" weight="13.6022676667034">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="328" source="DGKB" target="HbA1c.adjBMI" label="7.77" kind="Positive" weight="7.76606113366122">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="329" source="DGKB" target="HOMAB" label="-16.6" kind="Negative" weight="16.5808342174506">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="330" source="RSPO3" target="FIadjBMI" label="-5.61" kind="Negative" weight="5.60914309881555">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="331" source="SLC30A10" target="TG" label="5.66" kind="Positive" weight="5.66055274539424">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="332" source="SLC30A10" target="Albumin" label="8.67" kind="Positive" weight="8.66932622148661">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="333" source="SLC30A10" target="WHR_female" label="14.1" kind="Positive" weight="14.1353862542876">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="334" source="SLC30A10" target="SHBG" label="-5.81" kind="Negative" weight="5.8094848619643">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="335" source="SLC30A10" target="FIadjBMI" label="13.1" kind="Positive" weight="13.0943493393402">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="336" source="SLC30A10" target="HOMAIR" label="8.81" kind="Positive" weight="8.81385228698747">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="337" source="SLC30A10" target="HOMAB" label="7.96" kind="Positive" weight="7.9614323028235">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="338" source="SLC30A10" target="Adiponectin" label="-13.8" kind="Negative" weight="13.8159142485062">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="339" source="MAPKBP1" target="HbA1c.adjBMI" label="6.94" kind="Positive" weight="6.94127306401556">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="340" source="ADCY5" target="Glucose" label="14.6" kind="Positive" weight="14.5677299001068">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="341" source="ADCY5" target="FGadjBMI" label="13.1" kind="Positive" weight="13.111258980198">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="342" source="ADCY5" target="Proins" label="10.2" kind="Positive" weight="10.2377260704579">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="343" source="ADCY5" target="FIadjBMI" label="-11.3" kind="Negative" weight="11.308756247612">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="344" source="ADCY5" target="HbA1c.adjBMI" label="10.3" kind="Positive" weight="10.3234439344783">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="345" source="ADCY5" target="HOMAB" label="-7.7" kind="Negative" weight="7.69824445810206">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="346" source="HNF1A-AS1" target="ALP" label="21.8" kind="Positive" weight="21.8081049116235">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="347" source="HNF1A-AS1" target="C_reactive_protein" label="-51.4" kind="Negative" weight="51.4350435214115">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="348" source="HNF1A-AS1" target="Proins" label="-9.4" kind="Negative" weight="9.3976185724953">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="349" source="HNF1A-AS1" target="Cholesterol" label="8.15" kind="Positive" weight="8.14668798564907">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="350" source="HNF1A-AS1" target="Urate" label="-8.13" kind="Negative" weight="8.12557655706695">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="351" source="HNF1A-AS1" target="Urea" label="6.88" kind="Positive" weight="6.88402317426361">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="352" source="HNF1A-AS1" target="SHBG" label="-13.3" kind="Negative" weight="13.3082132790179">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="353" source="RASGRP1" target="HbA1c.adjBMI" label="6.92" kind="Positive" weight="6.92218888684841">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="354" source="JAZF1" target="HbA1c.adjBMI" label="9.47" kind="Positive" weight="9.46849025553805">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="355" source="MIR548A2" target="WHR_female" label="11.2" kind="Positive" weight="11.2135985960245">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="356" source="MIR548A2" target="HbA1c.adjBMI" label="7.29" kind="Positive" weight="7.29263662088432">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="357" source="MIR548A2" target="Adiponectin" label="-6.59" kind="Negative" weight="6.59114948411241">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="358" source="RREB1" target="Urate" label="6.3" kind="Positive" weight="6.30431954550812">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="359" source="RREB1" target="HbA1c.adjBMI" label="7.31" kind="Positive" weight="7.3113979439102">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="360" source="RREB1" target="WHR_male" label="-6.85" kind="Negative" weight="6.84638083501383">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="361" source="LINC01512" target="Glucose" label="5.86" kind="Positive" weight="5.86157564386148">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="362" source="LINC01512" target="Proins" label="5.46" kind="Positive" weight="5.46438629010688">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="363" source="LINC01512" target="Haemoglobin_concentration" label="-9.5" kind="Negative" weight="9.50498042884646">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="364" source="LINC01512" target="Urate" label="-9.15" kind="Negative" weight="9.15135744699473">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="365" source="LINC01512" target="FIadjBMI" label="-9.63" kind="Negative" weight="9.63239943914245">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="366" source="LINC01512" target="HOMAB" label="-5.61" kind="Negative" weight="5.61197465821405">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="367" source="MACF1" target="ALP" label="8.36" kind="Positive" weight="8.35525976999251">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="368" source="MACF1" target="C_reactive_protein" label="8.26" kind="Positive" weight="8.25728810091088">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="369" source="MACF1" target="TG" label="7.44" kind="Positive" weight="7.43888024284645">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="370" source="MACF1" target="Albumin" label="-6.54" kind="Negative" weight="6.53513475310892">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="371" source="MACF1" target="SHBG" label="-8.9" kind="Negative" weight="8.89610666610588">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="372" source="SEC16B" target="BMI" label="10.4" kind="Positive" weight="10.3521836547907">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="373" source="MIR4432" target="Proins" label="8.54" kind="Positive" weight="8.54189880015717">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="374" source="SLC2A2" target="Glucose" label="19.8" kind="Positive" weight="19.8439726437793">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="375" source="SLC2A2" target="BMI" label="-5.62" kind="Negative" weight="5.61860286472755">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="376" source="SLC2A2" target="C_reactive_protein" label="-5.66" kind="Negative" weight="5.65671184123361">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="377" source="SLC2A2" target="FGadjBMI" label="14.6" kind="Positive" weight="14.6352514721168">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="378" source="SLC2A2" target="HbA1c.adjBMI" label="18.1" kind="Positive" weight="18.111480512165">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="379" source="ARL15" target="TG" label="5.97" kind="Positive" weight="5.97252289708048">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="380" source="ARL15" target="FGadjBMI" label="6.68" kind="Positive" weight="6.68022478742545">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="381" source="ARL15" target="SHBG" label="-7.81" kind="Negative" weight="7.81185315004832">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="382" source="ARL15" target="FIadjBMI" label="12.6" kind="Positive" weight="12.6410206822622">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="383" source="SLCO4C1" target="FGadjBMI" label="-5.79" kind="Negative" weight="5.78714660728836">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="384" source="SLCO4C1" target="Proins" label="-9.39" kind="Negative" weight="9.39324744770729">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="385" source="GIN1" target="FGadjBMI" label="-6.12" kind="Negative" weight="6.12283408570543">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="386" source="CDKAL1" target="Proins" label="9.7" kind="Positive" weight="9.69765484650887">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="387" source="HLA-DRB5" target="ALP" label="7.8" kind="Positive" weight="7.80037370839546">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="388" source="HLA-DRB5" target="WBC" label="16.3" kind="Positive" weight="16.2633597399338">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="389" source="HLA-DRB5" target="C_reactive_protein" label="12.8" kind="Positive" weight="12.7901883625036">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="390" source="HLA-DRB5" target="AST" label="12.7" kind="Positive" weight="12.7314728413769">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="391" source="HLA-DRB5" target="Lymphocyte_count" label="7.01" kind="Positive" weight="7.00683632811654">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="392" source="HLA-DRB5" target="Monocyte_count" label="6.84" kind="Positive" weight="6.84165470250554">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="393" source="SLC22A3" target="LipoproteinA" label="79.4" kind="Positive" weight="79.4258736406321">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="394" source="SLC22A3" target="Albumin" label="5.45" kind="Positive" weight="5.45463898442326">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="395" source="SLC22A3" target="Proins" label="7.35" kind="Positive" weight="7.35164257331736">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="396" source="SLC22A3" target="SHBG" label="-11.5" kind="Negative" weight="11.5255712573889">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="397" source="SLC22A3" target="FIadjBMI" label="-6.82" kind="Negative" weight="6.81952270689329">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="398" source="KLF14" target="TG" label="11.7" kind="Positive" weight="11.711121125531">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="399" source="KLF14" target="SHBG" label="-5.86" kind="Negative" weight="5.86478534168937">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="400" source="KLF14" target="FIadjBMI" label="5.59" kind="Positive" weight="5.59155170020815">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="401" source="ZNF251" target="ALT" label="7.25" kind="Positive" weight="7.25406135794235">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="402" source="GPSM1" target="Glucose" label="6.48" kind="Positive" weight="6.4831390710547">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="403" source="GPSM1" target="FGadjBMI" label="7.08" kind="Positive" weight="7.08384763191456">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="404" source="CDC123" target="HbA1c.adjBMI" label="12.1" kind="Positive" weight="12.0688926761569">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="405" source="TCF7L2_2" target="Glucose" label="15.6" kind="Positive" weight="15.5683182282712">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="406" source="TCF7L2_2" target="Albumin" label="5.63" kind="Positive" weight="5.6321414881919">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="407" source="TCF7L2_2" target="FGadjBMI" label="14.1" kind="Positive" weight="14.1463583733715">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="408" source="TCF7L2_2" target="Proins" label="27.8" kind="Positive" weight="27.7925274378785">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="409" source="TCF7L2_2" target="HbA1c.adjBMI" label="6.54" kind="Positive" weight="6.54035092354501">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="410" source="TCF7L2_3" target="Proins" label="9.35" kind="Positive" weight="9.3477569163136">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="411" source="TCF7L2_4" target="FIadjBMI" label="-5.65" kind="Negative" weight="5.65437812380599">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="412" source="PDE3B" target="Glucose" label="5.97" kind="Positive" weight="5.97364015706649">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="413" source="PDE3B" target="FGadjBMI" label="6.37" kind="Positive" weight="6.3692856151221">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="414" source="PDE3B" target="VitaminD" label="9" kind="Positive" weight="9.00498354893927">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="415" source="PDE3B" target="HbA1c.adjBMI" label="7.49" kind="Positive" weight="7.4930095987317">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="416" source="NCR3LG1" target="Glucose" label="5.95" kind="Positive" weight="5.94794919448645">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="417" source="NCR3LG1" target="Proins" label="-6.18" kind="Negative" weight="6.18433473131379">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="418" source="PDHX" target="HbA1c.adjBMI" label="8.22" kind="Positive" weight="8.22131653689159">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="419" source="ITPR2" target="ALP" label="-6.66" kind="Negative" weight="6.66114598747826">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="420" source="HNF1A" target="Urate" label="-7.48" kind="Negative" weight="7.48121982374992">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="421" source="HNF1A" target="SHBG" label="-8.22" kind="Negative" weight="8.21740957902064">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="422" source="SPRY2" target="Proins" label="-7.28" kind="Negative" weight="7.28156903606598">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="423" source="C2CD4A" target="FGadjBMI" label="10.8" kind="Positive" weight="10.7843650515714">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="424" source="C2CD4A" target="Proins" label="30.7" kind="Positive" weight="30.7243175469773">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="425" source="PTPN9" target="FGadjBMI" label="5.66" kind="Positive" weight="5.65854334934862">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="426" source="PTPN9" target="HbA1c.adjBMI" label="6.45" kind="Positive" weight="6.45042958789835">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="427" source="PRC1" target="HbA1c.adjBMI" label="5.68" kind="Positive" weight="5.68201556125168">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="428" source="LOC613038" target="BMI" label="7.31" kind="Positive" weight="7.3063545916908">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="429" source="NAGLU" target="C_reactive_protein" label="5.51" kind="Positive" weight="5.51250799721882">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="430" source="NAGLU" target="TG" label="6.18" kind="Positive" weight="6.17898495981661">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="431" source="NAGLU" target="SHBG" label="-5.72" kind="Negative" weight="5.71573702683842">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="432" source="MC4R_2" target="BMI" label="8.39" kind="Positive" weight="8.38831308863088">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="433" source="GIPR" target="Proins" label="8.21" kind="Positive" weight="8.20933420687105">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="434" source="ZC3H4" target="BMI" label="9.34" kind="Positive" weight="9.34344533034599">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="435" source="ZC3H4" target="Proins" label="6.21" kind="Positive" weight="6.20633304603201">
+        <viz:color r="41" g="202" b="0"/>
+      </edge>
+      <edge id="436" source="ZC3H4" target="Haemoglobin_concentration" label="-6.03" kind="Negative" weight="6.03073479401817">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+      <edge id="437" source="ZC3H4" target="FIadjBMI" label="-7.35" kind="Negative" weight="7.35069156094779">
+        <viz:color r="247" g="12" b="0"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
